@@ -6,8 +6,8 @@ author_profile: true
 comments: true
 ---
 
-"Hello"
-For anything else, use the contact form below.
+You can reach me using the contact form below, and I will get back to you within a few business days.
+Thanks!
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
