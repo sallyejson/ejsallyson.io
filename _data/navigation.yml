@@ -1,5 +1,8 @@
 main:
   - title: "Home"
-    url: https://sallyejson.github.io/sallyejson.io/
+    url: /
   - title: "Blogs"
     url: /Blogs/
+  - title: "Contact"
+    url: /Contact/
+   
